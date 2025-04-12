@@ -1,0 +1,8883 @@
+
+'Index: 1' | 'Value: 56', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: MoonSec_StringsHiddenAttr'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: oEJeCmUItbHUUJcQPEWgSejfYlyZPohn'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: +)^,cCN*JQ=A>O(h'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: string'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: char'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 36'
+},
+{
+'Index: 1' | 'Value: 149', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: sub'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: sub'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 118', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 23'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 54', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: getfenv'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 49', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 49'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: getfenv'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 49', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 49'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 50'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: hZiopZpouGfoGhoe'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: �)"'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: �?voZ����7D�'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 22'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: ����'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: �~$��)���#<�'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: ^�S�'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: X��g�&2���r>�'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 	���'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 42', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: �ʭ��iX�>0Yr��>a'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 21'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: ��'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 122', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: iM�%����ǳ�'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 29'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: ���'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 122', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �(���Z^�'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 41'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: w�7'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: �ڊ��k�x��'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 
+
+	A picture taken from your webcam:
+       ,            _..._            ,
+      {'.         .'     '.         .'}
+     { ~ '.      _|=    __|_      .'  ~}
+    { ~  ~ '-._ (___________) _.-'~  ~  }
+   {~  ~  ~   ~.'           '. ~    ~    }
+  {  ~   ~  ~ /   /\     /\   \   ~    ~  }
+  {   ~   ~  /    __     __    \ ~   ~    }
+   {   ~  /\/  -<( o)   ( o)>-  \/\ ~   ~}
+    { ~   ;(      \/ .-. \/      );   ~ }
+     { ~ ~\_  ()  ^ (   ) ^  ()  _/ ~  }
+      '-._~ \   (`-._'-'_.-')   / ~_.-'
+          '--\   `'._'"'_.'`   /--'
+              \     \`-'/     /
+               `\    '-'    /'
+                `\         /'
+                  ''-...-''
+                Hands Up Skid
+
+'
+},
+{
+'Index: 1' | 'Value: 44', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: �^��'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �y#E�5R���d�'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 41'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 37', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: /../../luacfex/getinternalsyscall-loadstring/isoverwrittenattribute 0x00000700 wasFederalReallyHereAttribute?'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 116', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 116'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 145'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 144'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 145', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 125', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 125'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 143'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 21'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 143', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 143'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 90', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 120'
+},
+{
+'Index: 1' | 'Value: 146', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �m��'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: ���u.ӗ"`p��'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 47'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 21', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 44', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �g��'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: ީ�~
+�G彼W���'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 21', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 145', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 166', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 166'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 195'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 194'
+},
+{
+'Index: 1' | 'Value: 85', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: pcall'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 67', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 62', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 138', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 192', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 192'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 90', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 102', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 170'
+},
+{
+'Index: 1' | 'Value: 146', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 198', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 198'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 207'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 105', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: Your platform is unable to execute this script.'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 62', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 78', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 227'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 94', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 226', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 226'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 90', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 213'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: print'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: ��_!'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: �H�cPL��< �R�'
+},
+{
+'Index: 1' | 'Value: 47', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: 25'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 24', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: t�QF'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: �>�ZG�g��:�=��(�'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 25', 
+'Index: 3' | 'Value: 47'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 25', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 269'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 268'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 53', 
+'Index: 2' | 'Value: 27', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 25'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 28', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 21'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 28', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 267', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 267'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 87', 
+'Index: 2' | 'Value: 27', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 251'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: loadstring'
+},
+{
+'Index: 1' | 'Value: 138', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 273', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 273'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 274'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: load'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 95', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: ����'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 25', 
+'Index: 3' | 'Value: ���3�'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 53'
+},
+{
+'Index: 1' | 'Value: 84', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 26', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 91', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 145'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: WiyamjmndBGYurzOj'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 151', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+{{
+'Index: 1' | 'Value: 56', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: MoonSec_StringsHiddenAttr'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: oEJeCmUItbHUUJcQPEWgSejfYlyZPohn'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: +)^,cCN*JQ=A>O(h'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: string'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: char'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 36'
+},
+{
+'Index: 1' | 'Value: 149', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: sub'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: sub'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 118', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 23'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 54', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: getfenv'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 49', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 49'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: getfenv'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 49', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 49'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 50'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: hZiopZpouGfoGhoe'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: �)"'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: �?voZ����7D�'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 22'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: ����'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: �~$��)���#<�'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: ^�S�'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: X��g�&2���r>�'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 	���'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 42', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: �ʭ��iX�>0Yr��>a'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 21'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: ��'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 122', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: iM�%����ǳ�'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 29'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: ���'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 122', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �(���Z^�'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 41'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: w�7'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: �ڊ��k�x��'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 
+
+	A picture taken from your webcam:
+       ,            _..._            ,
+      {'.         .'     '.         .'}
+     { ~ '.      _|=    __|_      .'  ~}
+    { ~  ~ '-._ (___________) _.-'~  ~  }
+   {~  ~  ~   ~.'           '. ~    ~    }
+  {  ~   ~  ~ /   /\     /\   \   ~    ~  }
+  {   ~   ~  /    __     __    \ ~   ~    }
+   {   ~  /\/  -<( o)   ( o)>-  \/\ ~   ~}
+    { ~   ;(      \/ .-. \/      );   ~ }
+     { ~ ~\_  ()  ^ (   ) ^  ()  _/ ~  }
+      '-._~ \   (`-._'-'_.-')   / ~_.-'
+          '--\   `'._'"'_.'`   /--'
+              \     \`-'/     /
+               `\    '-'    /'
+                `\         /'
+                  ''-...-''
+                Hands Up Skid
+
+'
+},
+{
+'Index: 1' | 'Value: 44', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: �^��'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �y#E�5R���d�'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 41'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 37', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: /../../luacfex/getinternalsyscall-loadstring/isoverwrittenattribute 0x00000700 wasFederalReallyHereAttribute?'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 116', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 116'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 145'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 144'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 145', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 125', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 125'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 143'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 21'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 143', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 143'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 90', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 120'
+},
+{
+'Index: 1' | 'Value: 146', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 115', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �m��'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: ���u.ӗ"`p��'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 47'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 21', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 44', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: �g��'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: ީ�~
+�G彼W���'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 21', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 145', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 166', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 166'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 195'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 194'
+},
+{
+'Index: 1' | 'Value: 85', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: pcall'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 67', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 62', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 138', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 192', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 192'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 90', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 102', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 170'
+},
+{
+'Index: 1' | 'Value: 146', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 198', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 198'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 207'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 105', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: Your platform is unable to execute this script.'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 62', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 78', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 227'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 94', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 226', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 226'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 90', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 213'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 48', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: print'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: ��_!'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: �H�cPL��< �R�'
+},
+{
+'Index: 1' | 'Value: 47', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: 25'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 24', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: t�QF'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: �>�ZG�g��:�=��(�'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 25', 
+'Index: 3' | 'Value: 47'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 25', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 269'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 108', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 268'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 53', 
+'Index: 2' | 'Value: 27', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 25'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 28', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 21'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 28', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 267', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 267'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 87', 
+'Index: 2' | 'Value: 27', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: VAJraGsrOswd'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 98', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 251'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: loadstring'
+},
+{
+'Index: 1' | 'Value: 138', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 273', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 273'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 274'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: load'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 95', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: ����'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 23', 
+'Index: 3' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 24', 
+'Index: 3' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 25', 
+'Index: 3' | 'Value: ���3�'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 26', 
+'Index: 3' | 'Value: 53'
+},
+{
+'Index: 1' | 'Value: 84', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 26', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 91', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 145'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: WiyamjmndBGYurzOj'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 151', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+{{{{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 129', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: '
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: OTHDyEQVndfojzb'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: Federal was here'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 1', 
+}
+},
+{{{
+'Index: 1' | 'Value: 147', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: pcall'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 84', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: type'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: string'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 49'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 138', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 24', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 24'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 26'
+},
+{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: setmetatable'
+},
+{
+'Index: 1' | 'Value: 85', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 85', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: __tostring', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: pcall'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 102', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: type'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 55', 
+'Index: 4' | 'Value: table'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 55'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 87'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 52', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 62', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 72', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: setmetatable'
+},
+{
+'Index: 1' | 'Value: 85', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 85', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 41', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 80', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: __tostring', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: pcall'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 75', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+{{{{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 148', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 1', 
+}
+},
+{{{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 148', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 1', 
+}
+},
+{{{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 148', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 148', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+}
+},
+
+'Index: 3' | 'Value: 2', 
+}
+},
+{{{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 138', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 71', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: -1'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 97', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: '
+},
+{
+'Index: 1' | 'Value: 137', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 27'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: sub'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 129', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 36', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 36'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 111', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: sub'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 39', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 39'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 55'
+},
+{
+'Index: 1' | 'Value: 146', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 81', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: sub'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 84', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 31', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 14'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 256'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 15'
+},
+{
+'Index: 1' | 'Value: 134', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 60', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 60'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 146', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 146', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 5', 
+}
+},
+{{{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+}
+},
+
+{Index: 3 | Value: 0
+
+},
+
+{{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: MoonSec_StringsHiddenAttr'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: _XlskQwsWUTyq'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: This file was protected with MoonSec V3'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 159', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: GetService'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: Players'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: GetService'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: ReplicatedStorage'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: ScreenGui'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: WaitForChild'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: PlayerGui'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 64', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: TextButton'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 87', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 50'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 50'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Size', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 34', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0.5'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: -25'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Position', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: BackgroundColor3', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: TextColor3', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Enum'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: Font'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: SourceSansBold'
+},
+{
+'Index: 1' | 'Value: 45', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Font', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: TextSize', 
+'Index: 4' | 'Value: 24'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: Text', 
+'Index: 4' | 'Value: +'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: UICorner'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 123', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: UDim'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: CornerRadius', 
+'Index: 4' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 31', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Frame'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 125', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 200'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 100'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Size', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Vector2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0.5'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 0.5'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: AnchorPoint', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0.5'
+},
+{
+'Index: 1' | 'Value: 125', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 0.5'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Position', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 20'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: BackgroundColor3', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Visible', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 31', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: UICorner'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: UDim'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 0.1'
+},
+{
+'Index: 1' | 'Value: 127', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: CornerRadius', 
+'Index: 4' | 'Value: 7'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Frame'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 136', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 79', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: Size', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 40'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 40'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 40'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: BackgroundColor3', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: ZIndex', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 31', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: TextButton'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0.8'
+},
+{
+'Index: 1' | 'Value: 125', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0.3'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Size', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 87', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0.1'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0.2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Position', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: BackgroundColor3', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: TextColor3', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: Enum'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: Font'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: SourceSansBold'
+},
+{
+'Index: 1' | 'Value: 45', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Font', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: TextSize', 
+'Index: 4' | 'Value: 18'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Text', 
+'Index: 4' | 'Value: Tp to end (100%)'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: UICorner'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 123', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: UDim'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 0.2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: CornerRadius', 
+'Index: 4' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 31', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: TextButton'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0.8'
+},
+{
+'Index: 1' | 'Value: 125', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 0.3'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Size', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 87', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0.1'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 0.6'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Position', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: BackgroundColor3', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 116', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: fromRGB'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 255'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: TextColor3', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Enum'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: Font'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: SourceSansBold'
+},
+{
+'Index: 1' | 'Value: 45', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Font', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: TextSize', 
+'Index: 4' | 'Value: 18'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Text', 
+'Index: 4' | 'Value: Noclip: OFF'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: UICorner'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 132', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: UDim'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0.2'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: CornerRadius', 
+'Index: 4' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: MouseButton1Click'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: Connect'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 52', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: MouseButton1Click'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: Connect'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 100', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: GetService'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: RunService'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: Stepped'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: Connect'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 52', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: MouseButton1Click'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: Connect'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 88', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 14', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: ScreenGui'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: Players'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 166', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: WaitForChild'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: PlayerGui'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: Parent', 
+'Index: 4' | 'Value: 15'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: Instance'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: TextLabel'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 136', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 200'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 50'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 79', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: Size', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 136', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: UDim2'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 79', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: Position', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: BackgroundTransparency', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: TextScaled', 
+'Index: 4' | 'Value: true'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: Enum'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: Font'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: SourceSansBold'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: Font', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: Color3'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 165', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: TextColor3', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: Parent', 
+'Index: 4' | 'Value: 14'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 600'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 341', 
+'Index: 4' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 341'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: math'
+},
+{
+'Index: 1' | 'Value: 69', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: floor'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 60'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 60'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: string'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: format'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: Time Left: %02d:%02d'
+},
+{
+'Index: 1' | 'Value: 163', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: Text', 
+'Index: 4' | 'Value: 19'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: wait'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 322'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+{{{{
+'Index: 1' | 'Value: 161', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Remotes'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Weapon'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Shoot'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Remotes'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Weapon'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Reload'
+},
+{
+'Index: 1' | 'Value: 142', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Workspace'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: CurrentCamera'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 350'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 300'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: Vector3'
+},
+{
+'Index: 1' | 'Value: 71', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: Revolver'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Rifle'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: Sawed-Off Shotgun'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: Shotgun'
+},
+{
+'Index: 1' | 'Value: 114', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 43', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: task'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: spawn'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 153', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: tick'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 14', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: task'
+},
+{
+'Index: 1' | 'Value: 134', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: wait'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Baseplates'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: FindFirstChild'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: FinalBasePlate'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 91', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 91'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: pairs'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Baseplates'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: FinalBasePlate'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: OutlawBase'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: GetDescendants'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 16', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 17'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 88'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: IsA'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: Seat'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 82', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 82'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: IsA'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 22', 
+'Index: 3' | 'Value: VehicleSeat'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 87', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 87'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: pcall'
+},
+{
+'Index: 1' | 'Value: 58', 
+'Index: 2' | 'Value: 21', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 19', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 39', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 47', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 72', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 72'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 99'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: PivotTo'
+},
+{
+'Index: 1' | 'Value: 158', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: CFrame'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 18', 
+'Index: 3' | 'Value: -424.448975'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 19', 
+'Index: 3' | 'Value: 26.055481'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 20', 
+'Index: 3' | 'Value: -49040.6562'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 17', 
+'Index: 3' | 'Value: 20', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: tick'
+},
+{
+'Index: 1' | 'Value: 113', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 15', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 14'
+},
+{
+'Index: 1' | 'Value: 84', 
+'Index: 2' | 'Value: 2.5', 
+'Index: 3' | 'Value: 55', 
+'Index: 4' | 'Value: 15'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 55'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+{{{{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 71', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 71'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 113', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 66', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 66'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 113', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 66'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: distance'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 85', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 66', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 66'
+},
+{
+'Index: 1' | 'Value: 57', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Name'
+},
+{
+'Index: 1' | 'Value: 144', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 21', 
+'Index: 4' | 'Value: Shotgun'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 21'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 25'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Name'
+},
+{
+'Index: 1' | 'Value: 157', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 25', 
+'Index: 4' | 'Value: Sawed-Off Shotgun'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 25'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 36'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 70', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 35'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: tostring'
+},
+{
+'Index: 1' | 'Value: 163', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: hum'
+},
+{
+'Index: 1' | 'Value: 154', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 152', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 29'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 38'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: hum'
+},
+{
+'Index: 1' | 'Value: 79', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: head'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: Position'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: FireServer'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: GetServerTimeNow'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 111', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: CFrame'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: new'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 7', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: head'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: Position'
+},
+{
+'Index: 1' | 'Value: 27', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 163', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 139', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 66', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 66'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 117', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: FireServer'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: GetServerTimeNow'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: task'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: wait'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 0.05'
+},
+{
+'Index: 1' | 'Value: 47', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 96', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: ipairs'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: GetPlayers'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 77', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 78', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 73', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 78', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 73', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 1', 
+}
+},
+{{{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 5'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 73', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: ipairs'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 118', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 22'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: FindFirstChild'
+},
+{
+'Index: 1' | 'Value: 163', 
+'Index: 2' | 'Value: 8', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 22', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 22'
+},
+{
+'Index: 1' | 'Value: 73', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 16', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 73', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 92', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 73', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: GetPivot'
+},
+{
+'Index: 1' | 'Value: 51', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 3', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: Position'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: ipairs'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 5', 
+'Index: 4' | 'Value: GetDescendants'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: IsA'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Model'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 23', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 23'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 3', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 163', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 4', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 58', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: FindFirstChildOfClass'
+},
+{
+'Index: 1' | 'Value: 151', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: Humanoid'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: FindFirstChild'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: Head'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 9', 
+'Index: 3' | 'Value: 58', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 10', 
+'Index: 3' | 'Value: 58', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 9', 
+'Index: 4' | 'Value: Health'
+},
+{
+'Index: 1' | 'Value: 84', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58', 
+'Index: 4' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 8', 
+'Index: 4' | 'Value: GetPivot'
+},
+{
+'Index: 1' | 'Value: 32', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 11', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: Position'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 3'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: Magnitude'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 58', 
+'Index: 4' | 'Value: 13'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 129', 
+'Index: 2' | 'Value: 12', 
+'Index: 3' | 'Value: 58', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 58'
+},
+{
+'Index: 1' | 'Value: 163', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 12', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: model', 
+'Index: 4' | 'Value: 8'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: hum', 
+'Index: 4' | 'Value: 9'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: head', 
+'Index: 4' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 13', 
+'Index: 3' | 'Value: distance', 
+'Index: 4' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 13', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 17', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 17'
+},
+{
+'Index: 1' | 'Value: 73', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 26', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: tick'
+},
+{
+'Index: 1' | 'Value: 16', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 12', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: Disabled', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: CFrame'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: task'
+},
+{
+'Index: 1' | 'Value: 89', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: wait'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: PivotTo'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 23', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: PrimaryPart'
+},
+{
+'Index: 1' | 'Value: 42', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: CFrame', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 21', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Humanoid'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: SeatPart'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 27'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 27'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Sit'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 24', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: Humanoid'
+},
+{
+'Index: 1' | 'Value: 13', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 25', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 54'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Humanoid'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: SeatPart'
+},
+{
+'Index: 1' | 'Value: 157', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 54'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 54'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: GetService'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: VirtualInputManager'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: SendKeyEvent'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Space'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 46', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: wait'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 6', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: GetService'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: VirtualInputManager'
+},
+{
+'Index: 1' | 'Value: 17', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: SendKeyEvent'
+},
+{
+'Index: 1' | 'Value: 91', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 10', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: Space'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 6', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 29', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: game'
+},
+{
+'Index: 1' | 'Value: 8', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: tick'
+},
+{
+'Index: 1' | 'Value: 113', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 84', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 6', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 6'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: Humanoid'
+},
+{
+'Index: 1' | 'Value: 104', 
+'Index: 2' | 'Value: 2', 
+'Index: 3' | 'Value: Sit', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+}
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 112', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 20', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 18', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 3', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 15', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: Visible', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 15'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: –'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 15', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 15'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 16'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: +'
+},
+{
+'Index: 1' | 'Value: 79', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: Text', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 0', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 5', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 28', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 1', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: Noclip: ON'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 11', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 11'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 12'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: Noclip: OFF'
+},
+{
+'Index: 1' | 'Value: 79', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: Text', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+},
+{{{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 4'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 30'
+},
+{
+'Index: 1' | 'Value: 66', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 10', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 10'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 30'
+},
+{
+'Index: 1' | 'Value: 61', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: pairs'
+},
+{
+'Index: 1' | 'Value: 50', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 14', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: LocalPlayer'
+},
+{
+'Index: 1' | 'Value: 11', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: Character'
+},
+{
+'Index: 1' | 'Value: 19', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: GetDescendants'
+},
+{
+'Index: 1' | 'Value: 22', 
+'Index: 2' | 'Value: 1', 
+'Index: 3' | 'Value: 2', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 9', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 0', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 2', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 28'
+},
+{
+'Index: 1' | 'Value: 126', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: IsA'
+},
+{
+'Index: 1' | 'Value: 49', 
+'Index: 2' | 'Value: 7', 
+'Index: 3' | 'Value: BasePart'
+},
+{
+'Index: 1' | 'Value: 121', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 7', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 99', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 24', 
+'Index: 4' | 'Value: 1'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 24'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 28'
+},
+{
+'Index: 1' | 'Value: 133', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 4', 
+'Index: 4' | 'Value: CanCollide'
+},
+{
+'Index: 1' | 'Value: 164', 
+'Index: 2' | 'Value: 5', 
+'Index: 3' | 'Value: 28', 
+'Index: 4' | 'Value: 0'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 28'
+},
+{
+'Index: 1' | 'Value: 104', 
+'Index: 2' | 'Value: 4', 
+'Index: 3' | 'Value: CanCollide', 
+'Index: 4' | 'Value: false'
+},
+{
+'Index: 1' | 'Value: 86', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 18', 
+'Index: 4' | 'Value: 2'
+},
+{
+'Index: 1' | 'Value: 110', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 18'
+},
+{
+'Index: 1' | 'Value: 40', 
+'Index: 2' | 'Value: 0', 
+'Index: 3' | 'Value: 1', 
+'Index: 4' | 'Value: 0'
+}
+},
+
+},
+
+'Index: 3' | 'Value: 0', 
+}
+}
+},
+
+{Index: 3 | Value: 0
+
+},
+
