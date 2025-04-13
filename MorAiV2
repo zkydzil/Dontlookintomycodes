@@ -1,0 +1,133 @@
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Workspace = game:GetService("Workspace")
+local StarterGui = game:GetService("StarterGui")
+
+local LocalPlayer = Players.LocalPlayer
+local Camera = Workspace.CurrentCamera
+local ShootRemote = ReplicatedStorage.Remotes.Weapon.Shoot
+local ReloadRemote = ReplicatedStorage.Remotes.Weapon.Reload
+
+local gunName = "Revolver"
+local targets = {"Werewolf", "Vampire"}
+
+StarterGui:SetCore("SendNotification", {
+    Title = "Loaded",
+    Text = "Made by Hikari",
+    Duration = 5
+})
+
+local function getGun()
+    return LocalPlayer.Character and LocalPlayer.Character:FindFirstChild(gunName)
+end
+
+local function getClosestTarget()
+    local camPos = Camera.CFrame.Position
+    local closest, shortest = nil, math.huge
+
+    for _, ent in ipairs(Workspace.RuntimeEntities:GetChildren()) do
+        if table.find(targets, ent.Name) and ent:FindFirstChild("Head") and ent:FindFirstChild("Humanoid") and ent.Humanoid.Health > 0 then
+            local dist = (ent.Head.Position - camPos).Magnitude
+            if dist < shortest then
+                closest = ent
+                shortest = dist
+            end
+        end
+    end
+
+    return closest
+end
+
+local function shoot(target)
+    local gun = getGun()
+    if not gun or not target then return end
+
+    local head = target:FindFirstChild("Head")
+    local humanoid = target:FindFirstChild("Humanoid")
+    if not head or not humanoid then return end
+
+    local camPos = Camera.CFrame.Position
+    local aimCFrame = CFrame.new(camPos, head.Position)
+
+    local args = {
+        [1] = Workspace:GetServerTimeNow(),
+        [2] = gun,
+        [3] = aimCFrame,
+        [4] = { ["1"] = humanoid }
+    }
+
+    ShootRemote:FireServer(unpack(args))
+end
+
+local function autoReload()
+    local gun = getGun()
+    if gun then
+        local args = {
+            [1] = Workspace:GetServerTimeNow(),
+            [2] = gun
+        }
+        ReloadRemote:FireServer(unpack(args))
+    end
+end
+
+local function collectBonds()
+    local nearestBond = nil
+    local closestDistance = 50  -- Default distance without getgenv()
+
+    for _, part in ipairs(Workspace:GetChildren()) do
+        if part.Name == "Bond" then
+            local distance = (LocalPlayer.Character.HumanoidRootPart.Position - part.Position).Magnitude
+            if distance <= closestDistance then
+                nearestBond = part
+                closestDistance = distance
+            end
+        end
+    end
+
+    if nearestBond then
+        -- Add actions here to collect the bond, such as touching it or triggering something
+    end
+end
+
+task.spawn(function()
+    while true do
+        local target = getClosestTarget()
+        if target then
+            shoot(target)
+        end
+        task.wait(0.15)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        autoReload()
+        task.wait(1.5)
+    end
+end)
+
+task.spawn(function()
+    while true do
+        local found = false
+
+        for _, ent in ipairs(Workspace.RuntimeEntities:GetChildren()) do
+            if (ent.Name == "Werewolf" or ent.Name == "Vampire") and ent:FindFirstChild("Humanoid") and ent.Humanoid.Health > 0 then
+                found = true
+                break
+            end
+        end
+
+        if not found then
+            StarterGui:SetCore("SendNotification", {
+                Title = "Also Hikari is my roblox display name",
+                Text = "HIKARI = LUSHY",
+                Duration = 6
+            })
+
+            collectBonds()
+            break
+        end
+
+        task.wait(2)
+    end
+end)
